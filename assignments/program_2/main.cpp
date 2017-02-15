@@ -36,7 +36,16 @@ private:
     string ifile_name;
     string ofile_name;
     
-//Reads all the rgb values from input file and stores in rgb *image.
+    
+    /**
+* @FunctionName: readFile
+* @Description: 
+*     Reads all the rgb values from input file and stores in rgb *image...
+* @Params:  
+*  None   
+* @Returns:
+*    void
+*/
     void readFile(){
       ifile_name="input.txt";
       infile.open(ifile_name);
@@ -60,7 +69,15 @@ private:
       
     }
     
-//writes all the rgb values into output file.
+   /**
+* @FunctionName: writeFile
+* @Description: 
+*     writes all the rgb values into output file...
+* @Params:  
+*  None   
+* @Returns:
+*    void
+*/ 
     void writeFile(){
       ofile.open("output.txt"); 
       ofile<<width<<" "<<height<<endl;

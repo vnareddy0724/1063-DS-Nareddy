@@ -1,5 +1,5 @@
 
-
+```cpp
 /**
 * @ProgramName: Program-2
 * @Author: Vahini Nareddy
@@ -271,3 +271,4 @@ int main(){
       return 0;
   
 }
+```

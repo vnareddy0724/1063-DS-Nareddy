@@ -1,5 +1,4 @@
 
-```cpp
 /**
 * @ProgramName: Program-3
 * @Author: Vahini Nareddy 
@@ -801,4 +800,4 @@ while ( !c.QEmpty() )
   return 0;
   
 }
-```
+

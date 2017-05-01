@@ -1,4 +1,4 @@
-
+```cpp
 /**
 * @ProgramName: Program-4
 * @Author: Vahini Nareddy
@@ -274,3 +274,4 @@ int main() {
 	system("pause");
 	return 0;
 }
+```
